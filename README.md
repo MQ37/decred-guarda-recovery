@@ -1,3 +1,5 @@
+**You can also use this browser tool - https://handyonline.tools/decred-guarda-recovery**
+
 This repo will help you recover your [Decred](https://decred.org/) funds from [Guarda](https://guarda.co/) wallet private key export using [Exodus](https://www.exodus.io/) wallet and simple Python script to convert the Guarda base58 encoded private key to WIF key.
 
 # Steps
